@@ -1,0 +1,22 @@
+# Commons
+vendor/
+poetry.lock
+.env
+.vscode/
+__pycache__/
+
+# Kubernetes
+bin/
+logs/
+temp/
+
+# Poetry
+build/
+dist/
+venv/
+
+# Specific files
+*.swp
+*.log
+*.bak
+*.pyc
